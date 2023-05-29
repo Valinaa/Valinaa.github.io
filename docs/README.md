@@ -1,5 +1,5 @@
 # Valinaa.github.io
-[中文文档](<README_zh_CN.md>)
+[中文文档](<README.zh_CN.md>)
 ## Site-Home
 - Personal Home Page
 - Learn from [Tomotoes' personal page](https://github.com/Tomotoes/HomePage)
